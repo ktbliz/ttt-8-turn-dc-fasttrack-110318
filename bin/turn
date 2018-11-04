@@ -1,1 +1,3 @@
 #!/usr/bin/env ruby
+Puts "Where would you like to go?
+inputs = gets.strip
