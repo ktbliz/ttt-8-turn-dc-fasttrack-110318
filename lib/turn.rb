@@ -3,4 +3,6 @@ def input_to_index(input)
 end
 
 def valid (index, board)
-  if board[]
+  if board[index] == " "
+    
+end
